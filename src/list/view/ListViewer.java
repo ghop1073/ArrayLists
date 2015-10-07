@@ -1,4 +1,4 @@
-package list.controller;
+package list.view;
 
 import javax.swing.JOptionPane;
 
